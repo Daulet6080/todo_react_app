@@ -1,6 +1,6 @@
 React. Final
 
-Student ID: _fill in_
+Student ID:  test
 Student Fullname: _fill in_
 
 You have 4 tasks to accomplish. After completing them publish your code to GitHub to your repository.
